@@ -1,6 +1,4 @@
 import os
-from datetime import datetime
-import json
 from colorama import init, Fore, Style
 from pygments import highlight
 from pygments.lexers import get_lexer_by_name
